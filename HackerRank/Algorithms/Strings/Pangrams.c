@@ -1,4 +1,4 @@
-/*Problem : https://www.hackerrank.com/challenges/pangrams/problem*/
+/* Problem : https://www.hackerrank.com/challenges/pangrams/problem */
 
 #include <assert.h>
 #include <ctype.h>
