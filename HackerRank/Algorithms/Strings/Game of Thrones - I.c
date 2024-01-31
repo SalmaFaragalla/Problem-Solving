@@ -1,3 +1,4 @@
+/* https://www.hackerrank.com/challenges/game-of-thrones/problem */
 #include <assert.h>
 #include <ctype.h>
 #include <limits.h>
