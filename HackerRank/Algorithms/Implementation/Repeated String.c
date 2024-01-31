@@ -1,3 +1,5 @@
+/* Problem Link : https://hackerrank.com/challenges/repeated-string/problem */
+
 #include <assert.h>
 #include <ctype.h>
 #include <limits.h>
